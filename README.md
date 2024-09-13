@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daksh Chauhan</h1>
 
-- 🌱 I’m currently learning **Web-Developement and Python**
+- 🌱 I’m currently learning **Tailwind CSS and C++ and Game Developement**
 - 💬 Ask me about **Python and Web-Developement**
 - 📫 How to reach me **chauhandaksh12789@gmail.com**
 - ⚡ In my free time, I solve problems.
