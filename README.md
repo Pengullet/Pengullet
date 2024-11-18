@@ -12,7 +12,7 @@
   <a href="https://leetcode.com/chetan3327/">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
   </a>
-  <a href="https://www.codechef.com/users/daksh1289">
+  <a href="https://www.codechef.com/users/daksh3327">
     <img src="https://img.shields.io/badge/CodeChef-red?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Badge"/>
   </a>
 
